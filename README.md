@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Today's me is better than yesterday 👍
+👍 Today's me is better than yesterday 
 
-[Introduce hiYong](https://fluttering-crowberry-c63.notion.site/ff47e07447bf4012b4c2d5ae0c1239fe).
+📇 [Introduce hiYong](https://fluttering-crowberry-c63.notion.site/ff47e07447bf4012b4c2d5ae0c1239fe)
 
 <!--
 **hiYong94/hiYong94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
