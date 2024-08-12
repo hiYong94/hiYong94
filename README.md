@@ -2,7 +2,7 @@
 
 👍 Today's me is better than yesterday 
 
-📇 [Introduce hiYong](https://www.notion.so/hiyong94/ff47e07447bf4012b4c2d5ae0c1239fe)
+📇 [Introduce hiYong](https://www.notion.so/hiyong94/Back-end-6c7b04219e0c45dbbbc5d18d4059965a?pvs=4)
 
 <!--
 **hiYong94/hiYong94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
